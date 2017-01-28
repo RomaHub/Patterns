@@ -1,0 +1,6 @@
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\Observer\bin\Debug\Observer.exe.config
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\Observer\bin\Debug\Observer.exe
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\Observer\bin\Debug\Observer.pdb
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\Observer\obj\Debug\Observer.exe
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\Observer\obj\Debug\Observer.pdb

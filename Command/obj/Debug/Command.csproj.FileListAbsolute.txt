@@ -1,0 +1,6 @@
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\Command\bin\Debug\Command.exe.config
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\Command\bin\Debug\Command.exe
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\Command\bin\Debug\Command.pdb
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\Command\obj\Debug\Command.exe
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\Command\obj\Debug\Command.pdb

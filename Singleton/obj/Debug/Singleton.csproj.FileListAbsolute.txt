@@ -1,0 +1,6 @@
+f:\users\user\documents\visual studio 2015\Projects\Patterns\Singleton\bin\Debug\Singleton.exe.config
+f:\users\user\documents\visual studio 2015\Projects\Patterns\Singleton\bin\Debug\Singleton.exe
+f:\users\user\documents\visual studio 2015\Projects\Patterns\Singleton\bin\Debug\Singleton.pdb
+f:\users\user\documents\visual studio 2015\Projects\Patterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+f:\users\user\documents\visual studio 2015\Projects\Patterns\Singleton\obj\Debug\Singleton.exe
+f:\users\user\documents\visual studio 2015\Projects\Patterns\Singleton\obj\Debug\Singleton.pdb

@@ -1,0 +1,6 @@
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\State\bin\Debug\State.exe.config
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\State\bin\Debug\State.exe
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\State\bin\Debug\State.pdb
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\State\obj\Debug\State.exe
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\State\obj\Debug\State.pdb

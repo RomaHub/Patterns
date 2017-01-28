@@ -1,0 +1,6 @@
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+F:\Users\User\documents\visual studio 2015\Projects\Patterns\TemplateMethod\obj\Debug\TemplateMethod.pdb
